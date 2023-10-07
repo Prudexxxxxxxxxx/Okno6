@@ -2,9 +2,7 @@
     margin: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-body {
-     max-height:100vh;
-}
+
 
 p{   
    
@@ -35,6 +33,7 @@ body{
     transform: scale(0.7 );
     background-image: url(fullsize-2.jpg);
     background-size:cover;
+    max-height:100vh;
 }
 
 .btn{
